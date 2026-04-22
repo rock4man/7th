@@ -2,7 +2,7 @@ public class App {
     public static void main(String[] args) {
         int n = 10;
         if (n % 2 == 0)
-            System.out.println("Even number");
+            System.out.println("Even number-1");
         else
             System.out.println("Odd number");
     }
