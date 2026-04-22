@@ -4,6 +4,6 @@ public class App {
         if (n % 2 == 0)
             System.out.println("Even number-1");
         else
-            System.out.println("Odd number");
+            System.out.println("Odd number-1");
     }
 }
